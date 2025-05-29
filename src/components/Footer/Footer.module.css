@@ -1,0 +1,10 @@
+.footerContainer{
+    text-align: center;
+    background-color: #d9cbb3;
+    padding: 10px;
+}
+
+.footerContainer span{
+    font-weight: bold;
+    color: #4b3832;
+}
