@@ -6,3 +6,13 @@
     margin-bottom: 50px;
     background-color: #d9cbb3;
 }
+
+@media (max-width: 425px){
+    .headerContainer h1{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 768px){
+    
+}

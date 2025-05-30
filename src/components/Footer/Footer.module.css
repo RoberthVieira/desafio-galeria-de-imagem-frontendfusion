@@ -8,3 +8,16 @@
     font-weight: bold;
     color: #4b3832;
 }
+
+@media (max-width: 425px){
+    .footerContainer p{
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 1024px){
+    .footerContainer{
+        padding: 5px;
+        margin-top: 20px;
+    }
+}
