@@ -2,14 +2,14 @@
     background-color: transparent;
     border: none;
     cursor: pointer;
-    color: #cccccc;
+    color: #fdfdfd;
     transition: color 0.3s ease;
     padding: 4px;
     font-size: 18px;
 }
 
 .btn:hover{
-    color: #4b3832;
+    color: #ccc;
 }
 
 .ativo{
