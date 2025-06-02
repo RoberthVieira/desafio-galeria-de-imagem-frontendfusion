@@ -67,15 +67,8 @@ npm run dev
 - ✅ Estilização modular com CSS Modules.
 - ✅ Responsividade e boas práticas de UI/UX.
 
-## 🛠️ Tecnologias
-
-- ✅ React
-- ✅ Vite
-- ✅ JavaScript (ES6+)
-- ✅ CSS 
-
 ```bash
-Demo:
+Demo: https://desafio-galeria-de-imagem-frontendf-rho.vercel.app/
 ```
 
 Desenvolvido por Roberth Vieira 🚀
